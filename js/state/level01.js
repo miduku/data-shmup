@@ -1,5 +1,6 @@
 app.level01 = {};
 
+// create()
 app.level01.create = function () {
   app.game.stage.backgroundColor = '#cc9966';
 
@@ -7,6 +8,7 @@ app.level01.create = function () {
   this.player.sub_create();
 };
 
+// update()
 app.level01.update = function () {
   this.player.sub_update();
 };
