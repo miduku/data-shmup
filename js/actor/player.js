@@ -11,7 +11,8 @@ var Player = function (x, y) {
   this.diagonal = Math.round( Math.sqrt( this.diagonal ) );
 };
 
-
+// functions to be used in app.level01.create or app.level01.update
+//
 Player.prototype.sub_create = function () {
   this.body = app.game.add.sprite(this.x, this.y, 'ship-player');
 
