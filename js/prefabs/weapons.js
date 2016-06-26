@@ -2,6 +2,7 @@ var Weapon = {};
 
 /**
  * Single bullet fired from front
+ * http://phaser.io/tutorials/coding-tips-007
  */
 Weapon.SingleBullet = function (game) {
   Phaser.Group.call(this, game, game.world, 'Single Bullet', false, true, Phaser.Physics.ARCADE);
@@ -26,7 +27,7 @@ Weapon.SingleBullet.prototype.fireFrom = function (source) {
     return;
   }
 
-  // starting positon from where bullets are shot
+  // starting positon from where bullets fired from
   var x = source.x + 10;
   var y = source.y;
 

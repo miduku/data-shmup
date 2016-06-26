@@ -1,11 +1,13 @@
+/**
+ * Load assets needed throughout the game.
+ */
 app.load = {};
 
-// load assets
 app.load.preload = function () {
-  app.game.load.image('ship-player', 'assets/img/player.png');
-  app.game.load.image('bullet-01', 'assets/img/bullet1.png');
+  this.game.load.image('ship-player', 'assets/img/player.png');
+  this.game.load.image('bullet-01', 'assets/img/bullet1.png');
 };
 
 app.load.create = function () {
-  app.game.state.start('level01');
+  this.game.state.start('level01');
 };

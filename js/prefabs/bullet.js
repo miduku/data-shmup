@@ -1,14 +1,15 @@
-// Our core Bullet class
-// This is a simple Sprite object that we set a few properties on
-// It is fired by all of the Weapon classes
-// http://phaser.io/tutorials/coding-tips-007
-
+/**
+ * The core Bullet class.
+ * This is a simple Sprite object that we set a few properties on.
+ * It is fired by all of the Weapon classes.
+ * http://phaser.io/tutorials/coding-tips-007
+ */
 
 // This is essentially a Sprite with a couple of extra features
 var Bullet = function (game, key) {
   Phaser.Sprite.call(this, game, 0, 0, key);
 
-  this.texture.baseTexture.scaleMode = PIXI.scaleModes.NEAREST; // Tells Pixi to use nearest neighbour scaling. This means when the bullet is scaled from its default size it won't be automatically 'smoothed' as will retain its pixel crispness.
+  this.texture.baseTexture.scaleMode = PIXI.scaleModes.NEAREST; // Tells PIXI to use nearest neighbour scaling. This means when the bullet is scaled from its default size it won't be automatically 'smoothed' as will retain its pixel crispness.
 
   this.anchor.setTo(0.5, 0.5);
 
@@ -20,7 +21,7 @@ var Bullet = function (game, key) {
   this.scaleSpeed = 0; // scaleSpeed is how fast the bullet should grow in size as it travels
 };
 
-//
+//!
 Bullet.prototype = Object.create(Phaser.Sprite.prototype);
 Bullet.prototype.constructor = Bullet;
 
