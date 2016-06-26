@@ -11,8 +11,7 @@ var Player = function (x, y) {
   this.diagonal = Math.round( Math.sqrt( this.diagonal ) );
 };
 
-// functions to be used in app.level01.create or app.level01.update
-//
+// functions to be used in app.level01.create ...
 Player.prototype.sub_create = function () {
   this.body = app.game.add.sprite(this.x, this.y, 'ship-player');
 
@@ -23,6 +22,7 @@ Player.prototype.sub_create = function () {
   this.body.allowRotation = false;
 }
 
+// ... or app.level01.update
 Player.prototype.sub_update = function () {
   // Follow mouse position
   this.velocity = app.game.physics.arcade.moveToPointer(this.body, 500, app.game.input.activePointer, 100);
