@@ -11,7 +11,7 @@ Weapon.SingleBullet = function (game) {
   this.bulletSpeed = 1000; // bulletSpeed is the speed the bullets this particular weapon fires travel at
   this.fireRate = 100; // fireRate is the rate at which this weapon fires. The lower the number, the higher the firing rate.
 
-  // create 64 bullets
+  // create 64 bullets to add to the pool
   for (var i = 0; i < 64; i++) {
     this.add( new Bullet(this.game, 'bullet-01'), true );
   }

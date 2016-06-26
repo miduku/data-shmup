@@ -15,7 +15,7 @@ var Player = function (x, y) {
 Player.prototype.sub_create = function () {
   this.hull = app.game.add.sprite(this.x, this.y, 'ship-player');
 
-  app.game.physics.enable(this.hull, Phaser.Physics.ARCADE);
+  // app.game.physics.enable(this.hull, Phaser.Physics.ARCADE);
   this.hull.anchor.setTo(0.5, 0.5);
 
   //  Tell it we don't want physics to manage the rotation
