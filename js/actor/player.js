@@ -13,17 +13,17 @@ var Player = function (x, y) {
 
 // functions to be used in app.level01.create ...
 Player.prototype.sub_create = function () {
-  this.body = app.game.add.sprite(this.x, this.y, 'ship-player');
+  this.hull = app.game.add.sprite(this.x, this.y, 'ship-player');
 
-  app.game.physics.enable(this.body, Phaser.Physics.ARCADE);
-  this.body.anchor.setTo(0.5, 0.5);
+  app.game.physics.enable(this.hull, Phaser.Physics.ARCADE);
+  this.hull.anchor.setTo(0.5, 0.5);
 
   //  Tell it we don't want physics to manage the rotation
-  this.body.allowRotation = false;
+  this.hull.allowRotation = false;
 }
 
 // ... or app.level01.update
 Player.prototype.sub_update = function () {
   // Follow mouse position
-  this.velocity = app.game.physics.arcade.moveToPointer(this.body, 500, app.game.input.activePointer, 100);
+  this.velocity = app.game.physics.arcade.moveToPointer(this.hull, 500, app.game.input.activePointer, 100);
 }

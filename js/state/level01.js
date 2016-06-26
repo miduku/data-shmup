@@ -15,7 +15,7 @@ app.level01.create = function () {
 app.level01.update = function () {
   if (this.game.input.activePointer.isDown) {
     this.weapon.visible = true;
-    this.weapon.fireFrom(this.player);
+    this.weapon.fireFrom(this.player.hull);
   }
 
   this.player.sub_update();

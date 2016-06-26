@@ -27,8 +27,8 @@ Weapon.SingleBullet.prototype.fireFrom = function (source) {
   }
 
   // starting positon from where bullets are shot
-  var x = source.body.x + 10;
-  var y = source.body.y;
+  var x = source.x + 10;
+  var y = source.y;
 
   this.getFirstExists(false).fireFrom(x, y, 0, this.bulletSpeed, 0, 0);
   this.nextFire = this.game.time.now + this.fireRate;
