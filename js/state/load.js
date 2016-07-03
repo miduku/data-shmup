@@ -9,5 +9,5 @@ app.load.preload = function () {
 };
 
 app.load.create = function () {
-  this.game.state.start('level01');
+  this.game.state.start('menu');
 };

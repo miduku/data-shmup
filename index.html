@@ -5,6 +5,9 @@
     <meta charset="UTF-8">
     <!--<link href="css/style.css" rel="stylesheet">-->
 
+    <!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>-->
+    <script>window.jQuery || document.write('<script src="js/lib/jquery-3.0.0.min.js"><\/script>');</script>
+
     <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/phaser/2.5.0/phaser.min.js"></script>-->
     <script>window.Phaser || document.write('<script src="js/lib/phaser.min.js"><\/script>');</script>
 
@@ -19,8 +22,9 @@
     <script src="js/prefabs/weapons.js"></script>
 
     <!-- ... States -->
-    <script src="js/state/load.js"></script>
     <script src="js/state/boot.js"></script>
+    <script src="js/state/load.js"></script>
+    <script src="js/state/menu.js"></script>
     <script src="js/state/level01.js"></script>
     
     <!-- ... Adding states and booting -->
@@ -28,4 +32,38 @@
   </head>
 
   <body id="stage"></body>
+
+
+  <script>
+    // function readData(d) {
+    //   var output = '';
+
+    //   for (var key of d.statuses) {
+    //     output += key.created_at + '<br>'
+    //   }
+
+    //   return output;
+    // }
+
+    // // AJAX magic
+    // $.ajax({
+    //   type: 'POST',
+    //   url: 'php/index.php',
+    //   async: true,
+    //   dataType: 'json',
+    //   data: {
+    //     q: '#shmup',
+    //     count: '10',
+    //     until: '2016-07-02'
+    //   },
+    // })
+    // .done(function(data) {
+    //   // console.log(JSON.stringify(data));
+    //   console.log(readData(data));
+    // })
+    // .fail(function(jqXHR, textStatus, errorThrown) {
+    //   console.log("error");
+    //   console.log('ajax error: ' + textStatus + '\n' + 'errorThrown: ' + errorThrown);
+    // }); // END AJAX
+  </script>
 </html>

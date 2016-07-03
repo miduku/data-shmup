@@ -1,0 +1,3102 @@
+{
+  "statuses": [
+    {
+      "created_at": "Fri Jul 01 23:43:30 +0000 2016",
+      "id": 749025670144008200,
+      "id_str": "749025670144008192",
+      "text": "RT @DegiGames: https://t.co/cqokcX5VZb A lot of our #Shmup titles are discounted for the #SteamSummerSale! Which is your favorite? https://…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "Shmup",
+            "indices": [
+              52,
+              58
+            ]
+          },
+          {
+            "text": "SteamSummerSale",
+            "indices": [
+              89,
+              105
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "DegiGames",
+            "name": "Degica Games",
+            "id": 2546976571,
+            "id_str": "2546976571",
+            "indices": [
+              3,
+              13
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/cqokcX5VZb",
+            "expanded_url": "http://bit.ly/28Yqrnh",
+            "display_url": "bit.ly/28Yqrnh",
+            "indices": [
+              15,
+              38
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 747515827176386600,
+            "id_str": "747515827176386561",
+            "indices": [
+              139,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/Cl-1ry7UsAEQm9y.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Cl-1ry7UsAEQm9y.jpg",
+            "url": "https://t.co/7KueHS1QaO",
+            "display_url": "pic.twitter.com/7KueHS1QaO",
+            "expanded_url": "http://twitter.com/DegiGames/status/747516090297638912/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 680,
+                "h": 318,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 561,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1380,
+                "h": 645,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 747516090297638900,
+            "source_status_id_str": "747516090297638912",
+            "source_user_id": 2546976571,
+            "source_user_id_str": "2546976571"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 46996861,
+        "id_str": "46996861",
+        "name": "Yosu k",
+        "screen_name": "yosuk56",
+        "location": "長野県飯田市",
+        "description": "シューター部所属/クレオフーガ所属\r\nDTMで曲を作っています。あと、ゲームもしています（特にレトロゲームなど。）フォローやリムーブ、XBOXLIVEとPSNのフレンド登録、ご自由にどうぞ。\r\nXBOXLIVEゲーマータグ：yosu k \r\nPSNゲーマータグ：youbon56",
+        "url": "http://t.co/b7FJsXvOuU",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/b7FJsXvOuU",
+                "expanded_url": "http://yosuk.blog.fc2.com/",
+                "display_url": "yosuk.blog.fc2.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1055,
+        "friends_count": 2116,
+        "listed_count": 94,
+        "created_at": "Sun Jun 14 00:37:40 +0000 2009",
+        "favourites_count": 25500,
+        "utc_offset": 32400,
+        "time_zone": "Tokyo",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 47820,
+        "lang": "ja",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/185066779/0006FC00000000F5FE000000BBD4DB_157.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/185066779/0006FC00000000F5FE000000BBD4DB_157.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1848009757/icon13300002738049_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1848009757/icon13300002738049_normal.jpg",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Mon Jun 27 19:44:58 +0000 2016",
+        "id": 747516090297638900,
+        "id_str": "747516090297638912",
+        "text": "https://t.co/cqokcX5VZb A lot of our #Shmup titles are discounted for the #SteamSummerSale! Which is your favorite? https://t.co/7KueHS1QaO",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "Shmup",
+              "indices": [
+                37,
+                43
+              ]
+            },
+            {
+              "text": "SteamSummerSale",
+              "indices": [
+                74,
+                90
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/cqokcX5VZb",
+              "expanded_url": "http://bit.ly/28Yqrnh",
+              "display_url": "bit.ly/28Yqrnh",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ],
+          "media": [
+            {
+              "id": 747515827176386600,
+              "id_str": "747515827176386561",
+              "indices": [
+                116,
+                139
+              ],
+              "media_url": "http://pbs.twimg.com/media/Cl-1ry7UsAEQm9y.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Cl-1ry7UsAEQm9y.jpg",
+              "url": "https://t.co/7KueHS1QaO",
+              "display_url": "pic.twitter.com/7KueHS1QaO",
+              "expanded_url": "http://twitter.com/DegiGames/status/747516090297638912/photo/1",
+              "type": "photo",
+              "sizes": {
+                "small": {
+                  "w": 680,
+                  "h": 318,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 1200,
+                  "h": 561,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 1380,
+                  "h": 645,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 2546976571,
+          "id_str": "2546976571",
+          "name": "Degica Games",
+          "screen_name": "DegiGames",
+          "location": "Tokyo, Japan",
+          "description": "DegiGames aims to bring you the most exciting games from Japan and all around the world.",
+          "url": "http://t.co/0qaf7WsLYp",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/0qaf7WsLYp",
+                  "expanded_url": "http://store.steampowered.com/search/?publisher=Degica",
+                  "display_url": "store.steampowered.com/search/?publis…",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 43594,
+          "friends_count": 347,
+          "listed_count": 58,
+          "created_at": "Wed Jun 04 22:56:46 +0000 2014",
+          "favourites_count": 478,
+          "utc_offset": -14400,
+          "time_zone": "Eastern Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 2378,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/746028649560825856/KD6EXbKF_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/746028649560825856/KD6EXbKF_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/2546976571/1466702013",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 38,
+        "favorite_count": 37,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 38,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 01 23:39:34 +0000 2016",
+      "id": 749024680032411600,
+      "id_str": "749024680032411648",
+      "text": "RT @duhproject: Playing a couple of my #shmup favorites. Axelay and Ordyne. #pcengine #snes https://t.co/p33fmosrnh",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "shmup",
+            "indices": [
+              39,
+              45
+            ]
+          },
+          {
+            "text": "pcengine",
+            "indices": [
+              76,
+              85
+            ]
+          },
+          {
+            "text": "snes",
+            "indices": [
+              86,
+              91
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "duhproject",
+            "name": "Eric Nelson",
+            "id": 69920177,
+            "id_str": "69920177",
+            "indices": [
+              3,
+              14
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 749016822813323300,
+            "id_str": "749016822813323264",
+            "indices": [
+              92,
+              115
+            ],
+            "media_url": "http://pbs.twimg.com/media/CmUK1PaUcAAmqJg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CmUK1PaUcAAmqJg.jpg",
+            "url": "https://t.co/p33fmosrnh",
+            "display_url": "pic.twitter.com/p33fmosrnh",
+            "expanded_url": "http://twitter.com/duhproject/status/749016850676060162/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 749016850676060200,
+            "source_status_id_str": "749016850676060162",
+            "source_user_id": 69920177,
+            "source_user_id_str": "69920177"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 744007956916691000,
+        "id_str": "744007956916690944",
+        "name": "Mike Lee",
+        "screen_name": "mlee2017",
+        "location": "California, USA",
+        "description": "Mac fan, iOS fan, retro gamer and blogger",
+        "url": "https://t.co/trqjKlR06Q",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/trqjKlR06Q",
+                "expanded_url": "http://justaguythinkingblog.blogspot.com/",
+                "display_url": "justaguythinkingblog.blogspot.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 140,
+        "friends_count": 605,
+        "listed_count": 12,
+        "created_at": "Sat Jun 18 03:24:54 +0000 2016",
+        "favourites_count": 570,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 690,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/744008475538165761/haZnTAEx_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/744008475538165761/haZnTAEx_normal.jpg",
+        "profile_link_color": "2B7BB9",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Jul 01 23:08:27 +0000 2016",
+        "id": 749016850676060200,
+        "id_str": "749016850676060162",
+        "text": "Playing a couple of my #shmup favorites. Axelay and Ordyne. #pcengine #snes https://t.co/p33fmosrnh",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "shmup",
+              "indices": [
+                23,
+                29
+              ]
+            },
+            {
+              "text": "pcengine",
+              "indices": [
+                60,
+                69
+              ]
+            },
+            {
+              "text": "snes",
+              "indices": [
+                70,
+                75
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 749016822813323300,
+              "id_str": "749016822813323264",
+              "indices": [
+                76,
+                99
+              ],
+              "media_url": "http://pbs.twimg.com/media/CmUK1PaUcAAmqJg.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CmUK1PaUcAAmqJg.jpg",
+              "url": "https://t.co/p33fmosrnh",
+              "display_url": "pic.twitter.com/p33fmosrnh",
+              "expanded_url": "http://twitter.com/duhproject/status/749016850676060162/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 69920177,
+          "id_str": "69920177",
+          "name": "Eric Nelson",
+          "screen_name": "duhproject",
+          "location": "Elk Grove, CA",
+          "description": "I listen to 70s and 80s music while using 8 & 16bit computers from the 80s. My quest to collect all retro game consoles I couldn't have as a kid continues...",
+          "url": "http://t.co/PtPj5MxZEy",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/PtPj5MxZEy",
+                  "expanded_url": "http://duhproject.com",
+                  "display_url": "duhproject.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 5379,
+          "friends_count": 3450,
+          "listed_count": 144,
+          "created_at": "Sat Aug 29 17:46:05 +0000 2009",
+          "favourites_count": 41446,
+          "utc_offset": -25200,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 46146,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "131516",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1909196197/DSC01119_reasonably_small_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1909196197/DSC01119_reasonably_small_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/69920177/1362845811",
+          "profile_link_color": "009999",
+          "profile_sidebar_border_color": "EEEEEE",
+          "profile_sidebar_fill_color": "EFEFEF",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 01 23:19:34 +0000 2016",
+      "id": 749019645164851200,
+      "id_str": "749019645164851200",
+      "text": "RT @duhproject: Playing a couple of my #shmup favorites. Axelay and Ordyne. #pcengine #snes https://t.co/p33fmosrnh",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "shmup",
+            "indices": [
+              39,
+              45
+            ]
+          },
+          {
+            "text": "pcengine",
+            "indices": [
+              76,
+              85
+            ]
+          },
+          {
+            "text": "snes",
+            "indices": [
+              86,
+              91
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "duhproject",
+            "name": "Eric Nelson",
+            "id": 69920177,
+            "id_str": "69920177",
+            "indices": [
+              3,
+              14
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 749016822813323300,
+            "id_str": "749016822813323264",
+            "indices": [
+              92,
+              115
+            ],
+            "media_url": "http://pbs.twimg.com/media/CmUK1PaUcAAmqJg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CmUK1PaUcAAmqJg.jpg",
+            "url": "https://t.co/p33fmosrnh",
+            "display_url": "pic.twitter.com/p33fmosrnh",
+            "expanded_url": "http://twitter.com/duhproject/status/749016850676060162/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 749016850676060200,
+            "source_status_id_str": "749016850676060162",
+            "source_user_id": 69920177,
+            "source_user_id_str": "69920177"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 745076288197537800,
+        "id_str": "745076288197537792",
+        "name": "App Apes PR",
+        "screen_name": "AppApesPR",
+        "location": "",
+        "description": "RT. More involved in the Twitter community than the main @Appapescom account. App Apes, the truly free app review website: https://t.co/wqNsgYRyQn",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/wqNsgYRyQn",
+                "expanded_url": "http://app-apes.com/",
+                "display_url": "app-apes.com",
+                "indices": [
+                  123,
+                  146
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 95,
+        "friends_count": 1,
+        "listed_count": 88,
+        "created_at": "Tue Jun 21 02:10:05 +0000 2016",
+        "favourites_count": 18,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 2537,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/745079220909445120/172W5x6f_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/745079220909445120/172W5x6f_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/745076288197537792/1466476259",
+        "profile_link_color": "E81C4F",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Jul 01 23:08:27 +0000 2016",
+        "id": 749016850676060200,
+        "id_str": "749016850676060162",
+        "text": "Playing a couple of my #shmup favorites. Axelay and Ordyne. #pcengine #snes https://t.co/p33fmosrnh",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "shmup",
+              "indices": [
+                23,
+                29
+              ]
+            },
+            {
+              "text": "pcengine",
+              "indices": [
+                60,
+                69
+              ]
+            },
+            {
+              "text": "snes",
+              "indices": [
+                70,
+                75
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 749016822813323300,
+              "id_str": "749016822813323264",
+              "indices": [
+                76,
+                99
+              ],
+              "media_url": "http://pbs.twimg.com/media/CmUK1PaUcAAmqJg.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CmUK1PaUcAAmqJg.jpg",
+              "url": "https://t.co/p33fmosrnh",
+              "display_url": "pic.twitter.com/p33fmosrnh",
+              "expanded_url": "http://twitter.com/duhproject/status/749016850676060162/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 69920177,
+          "id_str": "69920177",
+          "name": "Eric Nelson",
+          "screen_name": "duhproject",
+          "location": "Elk Grove, CA",
+          "description": "I listen to 70s and 80s music while using 8 & 16bit computers from the 80s. My quest to collect all retro game consoles I couldn't have as a kid continues...",
+          "url": "http://t.co/PtPj5MxZEy",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/PtPj5MxZEy",
+                  "expanded_url": "http://duhproject.com",
+                  "display_url": "duhproject.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 5379,
+          "friends_count": 3450,
+          "listed_count": 144,
+          "created_at": "Sat Aug 29 17:46:05 +0000 2009",
+          "favourites_count": 41446,
+          "utc_offset": -25200,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 46146,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "131516",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1909196197/DSC01119_reasonably_small_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1909196197/DSC01119_reasonably_small_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/69920177/1362845811",
+          "profile_link_color": "009999",
+          "profile_sidebar_border_color": "EEEEEE",
+          "profile_sidebar_fill_color": "EFEFEF",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 01 23:17:05 +0000 2016",
+      "id": 749019021371138000,
+      "id_str": "749019021371138048",
+      "text": "RT @duhproject: Playing a couple of my #shmup favorites. Axelay and Ordyne. #pcengine #snes https://t.co/p33fmosrnh",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "shmup",
+            "indices": [
+              39,
+              45
+            ]
+          },
+          {
+            "text": "pcengine",
+            "indices": [
+              76,
+              85
+            ]
+          },
+          {
+            "text": "snes",
+            "indices": [
+              86,
+              91
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "duhproject",
+            "name": "Eric Nelson",
+            "id": 69920177,
+            "id_str": "69920177",
+            "indices": [
+              3,
+              14
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 749016822813323300,
+            "id_str": "749016822813323264",
+            "indices": [
+              92,
+              115
+            ],
+            "media_url": "http://pbs.twimg.com/media/CmUK1PaUcAAmqJg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CmUK1PaUcAAmqJg.jpg",
+            "url": "https://t.co/p33fmosrnh",
+            "display_url": "pic.twitter.com/p33fmosrnh",
+            "expanded_url": "http://twitter.com/duhproject/status/749016850676060162/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            },
+            "source_status_id": 749016850676060200,
+            "source_status_id_str": "749016850676060162",
+            "source_user_id": 69920177,
+            "source_user_id_str": "69920177"
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 378868310,
+        "id_str": "378868310",
+        "name": "fb .com /RetroYak",
+        "screen_name": "RetroYak",
+        "location": "England, United Kingdom",
+        "description": "I'm Dave. I love #retrogaming and run a website: https://t.co/3GgfUMy6Pn! I'm also creator of @SpeccyJam.",
+        "url": "https://t.co/cMrC4sQvY8",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/cMrC4sQvY8",
+                "expanded_url": "http://www.facebook.com/RetroYak",
+                "display_url": "facebook.com/RetroYak",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/3GgfUMy6Pn",
+                "expanded_url": "http://RetroYak.com",
+                "display_url": "RetroYak.com",
+                "indices": [
+                  49,
+                  72
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 4959,
+        "friends_count": 2952,
+        "listed_count": 243,
+        "created_at": "Fri Sep 23 23:33:43 +0000 2011",
+        "favourites_count": 1245,
+        "utc_offset": 3600,
+        "time_zone": "London",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 14313,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168614208/kjqTdXk3.png",
+        "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168614208/kjqTdXk3.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/567787989426634752/MktUgUJj_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/567787989426634752/MktUgUJj_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/378868310/1424018856",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Jul 01 23:08:27 +0000 2016",
+        "id": 749016850676060200,
+        "id_str": "749016850676060162",
+        "text": "Playing a couple of my #shmup favorites. Axelay and Ordyne. #pcengine #snes https://t.co/p33fmosrnh",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "shmup",
+              "indices": [
+                23,
+                29
+              ]
+            },
+            {
+              "text": "pcengine",
+              "indices": [
+                60,
+                69
+              ]
+            },
+            {
+              "text": "snes",
+              "indices": [
+                70,
+                75
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 749016822813323300,
+              "id_str": "749016822813323264",
+              "indices": [
+                76,
+                99
+              ],
+              "media_url": "http://pbs.twimg.com/media/CmUK1PaUcAAmqJg.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/CmUK1PaUcAAmqJg.jpg",
+              "url": "https://t.co/p33fmosrnh",
+              "display_url": "pic.twitter.com/p33fmosrnh",
+              "expanded_url": "http://twitter.com/duhproject/status/749016850676060162/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 1200,
+                  "h": 900,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 2048,
+                  "h": 1536,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 680,
+                  "h": 510,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 69920177,
+          "id_str": "69920177",
+          "name": "Eric Nelson",
+          "screen_name": "duhproject",
+          "location": "Elk Grove, CA",
+          "description": "I listen to 70s and 80s music while using 8 & 16bit computers from the 80s. My quest to collect all retro game consoles I couldn't have as a kid continues...",
+          "url": "http://t.co/PtPj5MxZEy",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/PtPj5MxZEy",
+                  "expanded_url": "http://duhproject.com",
+                  "display_url": "duhproject.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 5379,
+          "friends_count": 3450,
+          "listed_count": 144,
+          "created_at": "Sat Aug 29 17:46:05 +0000 2009",
+          "favourites_count": 41446,
+          "utc_offset": -25200,
+          "time_zone": "Pacific Time (US & Canada)",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 46146,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "131516",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1909196197/DSC01119_reasonably_small_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1909196197/DSC01119_reasonably_small_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/69920177/1362845811",
+          "profile_link_color": "009999",
+          "profile_sidebar_border_color": "EEEEEE",
+          "profile_sidebar_fill_color": "EFEFEF",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 4,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 01 23:08:27 +0000 2016",
+      "id": 749016850676060200,
+      "id_str": "749016850676060162",
+      "text": "Playing a couple of my #shmup favorites. Axelay and Ordyne. #pcengine #snes https://t.co/p33fmosrnh",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "shmup",
+            "indices": [
+              23,
+              29
+            ]
+          },
+          {
+            "text": "pcengine",
+            "indices": [
+              60,
+              69
+            ]
+          },
+          {
+            "text": "snes",
+            "indices": [
+              70,
+              75
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 749016822813323300,
+            "id_str": "749016822813323264",
+            "indices": [
+              76,
+              99
+            ],
+            "media_url": "http://pbs.twimg.com/media/CmUK1PaUcAAmqJg.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/CmUK1PaUcAAmqJg.jpg",
+            "url": "https://t.co/p33fmosrnh",
+            "display_url": "pic.twitter.com/p33fmosrnh",
+            "expanded_url": "http://twitter.com/duhproject/status/749016850676060162/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 1536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 69920177,
+        "id_str": "69920177",
+        "name": "Eric Nelson",
+        "screen_name": "duhproject",
+        "location": "Elk Grove, CA",
+        "description": "I listen to 70s and 80s music while using 8 & 16bit computers from the 80s. My quest to collect all retro game consoles I couldn't have as a kid continues...",
+        "url": "http://t.co/PtPj5MxZEy",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/PtPj5MxZEy",
+                "expanded_url": "http://duhproject.com",
+                "display_url": "duhproject.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 5379,
+        "friends_count": 3450,
+        "listed_count": 144,
+        "created_at": "Sat Aug 29 17:46:05 +0000 2009",
+        "favourites_count": 41446,
+        "utc_offset": -25200,
+        "time_zone": "Pacific Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 46146,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1909196197/DSC01119_reasonably_small_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1909196197/DSC01119_reasonably_small_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/69920177/1362845811",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 01 23:02:47 +0000 2016",
+      "id": 749015424822612000,
+      "id_str": "749015424822611969",
+      "text": "RT @jam0824: https://t.co/d7fz7eZS3c I made a shmup STG game for Android and PC! Let's enjoy the game! #shmup #game #anime #unity2d",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "shmup",
+            "indices": [
+              103,
+              109
+            ]
+          },
+          {
+            "text": "game",
+            "indices": [
+              110,
+              115
+            ]
+          },
+          {
+            "text": "anime",
+            "indices": [
+              116,
+              122
+            ]
+          },
+          {
+            "text": "unity2d",
+            "indices": [
+              123,
+              131
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jam0824",
+            "name": "jam",
+            "id": 151796037,
+            "id_str": "151796037",
+            "indices": [
+              3,
+              11
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/d7fz7eZS3c",
+            "expanded_url": "http://milk0824.sakura.ne.jp/app/ab/sp",
+            "display_url": "milk0824.sakura.ne.jp/app/ab/sp",
+            "indices": [
+              13,
+              36
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.bloodirony.com\" rel=\"nofollow\">SHMUPbot</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3024981633,
+        "id_str": "3024981633",
+        "name": "SHMUPbot",
+        "screen_name": "SHMUPbot",
+        "location": "01010110 01001001 01000101 ",
+        "description": "I'm a Robot with a hardcoded love for #IndieGameDev #ShootEmUps. I'll retweet #shmup and #shootemup. My programmer is a real human working at @Bloodirony Games.",
+        "url": "http://t.co/fnCHEdg0Gp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/fnCHEdg0Gp",
+                "expanded_url": "http://www.bloodirony.com",
+                "display_url": "bloodirony.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 307,
+        "friends_count": 1,
+        "listed_count": 372,
+        "created_at": "Sun Feb 08 14:25:01 +0000 2015",
+        "favourites_count": 0,
+        "utc_offset": 7200,
+        "time_zone": "Belgrade",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13899,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/564501751663828992/86L1KN-6_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/564501751663828992/86L1KN-6_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3024981633/1423422694",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Jul 01 22:13:15 +0000 2016",
+        "id": 749002958822477800,
+        "id_str": "749002958822477827",
+        "text": "https://t.co/d7fz7eZS3c I made a shmup STG game for Android and PC! Let's enjoy the game! #shmup #game #anime #unity2d",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "shmup",
+              "indices": [
+                90,
+                96
+              ]
+            },
+            {
+              "text": "game",
+              "indices": [
+                97,
+                102
+              ]
+            },
+            {
+              "text": "anime",
+              "indices": [
+                103,
+                109
+              ]
+            },
+            {
+              "text": "unity2d",
+              "indices": [
+                110,
+                118
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/d7fz7eZS3c",
+              "expanded_url": "http://milk0824.sakura.ne.jp/app/ab/sp",
+              "display_url": "milk0824.sakura.ne.jp/app/ab/sp",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twirobo.com/\" rel=\"nofollow\">twiroboJP</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 151796037,
+          "id_str": "151796037",
+          "name": "jam",
+          "screen_name": "jam0824",
+          "location": "Kawasaki / Japan",
+          "description": "Hello! I study English but failed to continue to study it. I do my best this year!",
+          "url": "http://t.co/hXxsr9D3CG",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "http://t.co/hXxsr9D3CG",
+                  "expanded_url": "http://m-training.hatenablog.com/",
+                  "display_url": "m-training.hatenablog.com",
+                  "indices": [
+                    0,
+                    22
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 188,
+          "friends_count": 190,
+          "listed_count": 15,
+          "created_at": "Fri Jun 04 07:52:22 +0000 2010",
+          "favourites_count": 4,
+          "utc_offset": 28800,
+          "time_zone": "Beijing",
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 2320,
+          "lang": "ja",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "C0DEED",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/1016118152/terute_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1016118152/terute_normal.jpg",
+          "profile_link_color": "0084B4",
+          "profile_sidebar_border_color": "C0DEED",
+          "profile_sidebar_fill_color": "DDEEF6",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": false,
+          "default_profile": true,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 01 23:02:47 +0000 2016",
+      "id": 749015423652401200,
+      "id_str": "749015423652401152",
+      "text": "RT @xushaw: Here's our team progress this month! 😜⚡️ #indiedev #gamedev #videogames #gaming #wip #glitchemup #shmup  https://t.co/VtP4HV3Ydp",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "indiedev",
+            "indices": [
+              53,
+              62
+            ]
+          },
+          {
+            "text": "gamedev",
+            "indices": [
+              63,
+              71
+            ]
+          },
+          {
+            "text": "videogames",
+            "indices": [
+              72,
+              83
+            ]
+          },
+          {
+            "text": "gaming",
+            "indices": [
+              84,
+              91
+            ]
+          },
+          {
+            "text": "wip",
+            "indices": [
+              92,
+              96
+            ]
+          },
+          {
+            "text": "glitchemup",
+            "indices": [
+              97,
+              108
+            ]
+          },
+          {
+            "text": "shmup",
+            "indices": [
+              109,
+              115
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xushaw",
+            "name": "Ksenia Shatunova",
+            "id": 14500408,
+            "id_str": "14500408",
+            "indices": [
+              3,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/VtP4HV3Ydp",
+            "expanded_url": "https://twitter.com/dash_and_dot/status/748987010786918401",
+            "display_url": "twitter.com/dash_and_dot/s…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.bloodirony.com\" rel=\"nofollow\">SHMUPbot</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3024981633,
+        "id_str": "3024981633",
+        "name": "SHMUPbot",
+        "screen_name": "SHMUPbot",
+        "location": "01010110 01001001 01000101 ",
+        "description": "I'm a Robot with a hardcoded love for #IndieGameDev #ShootEmUps. I'll retweet #shmup and #shootemup. My programmer is a real human working at @Bloodirony Games.",
+        "url": "http://t.co/fnCHEdg0Gp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/fnCHEdg0Gp",
+                "expanded_url": "http://www.bloodirony.com",
+                "display_url": "bloodirony.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 307,
+        "friends_count": 1,
+        "listed_count": 372,
+        "created_at": "Sun Feb 08 14:25:01 +0000 2015",
+        "favourites_count": 0,
+        "utc_offset": 7200,
+        "time_zone": "Belgrade",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13899,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/564501751663828992/86L1KN-6_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/564501751663828992/86L1KN-6_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3024981633/1423422694",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Jul 01 22:22:01 +0000 2016",
+        "id": 749005163835297800,
+        "id_str": "749005163835297792",
+        "text": "Here's our team progress this month! 😜⚡️ #indiedev #gamedev #videogames #gaming #wip #glitchemup #shmup  https://t.co/VtP4HV3Ydp",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "indiedev",
+              "indices": [
+                41,
+                50
+              ]
+            },
+            {
+              "text": "gamedev",
+              "indices": [
+                51,
+                59
+              ]
+            },
+            {
+              "text": "videogames",
+              "indices": [
+                60,
+                71
+              ]
+            },
+            {
+              "text": "gaming",
+              "indices": [
+                72,
+                79
+              ]
+            },
+            {
+              "text": "wip",
+              "indices": [
+                80,
+                84
+              ]
+            },
+            {
+              "text": "glitchemup",
+              "indices": [
+                85,
+                96
+              ]
+            },
+            {
+              "text": "shmup",
+              "indices": [
+                97,
+                103
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/VtP4HV3Ydp",
+              "expanded_url": "https://twitter.com/dash_and_dot/status/748987010786918401",
+              "display_url": "twitter.com/dash_and_dot/s…",
+              "indices": [
+                105,
+                128
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 14500408,
+          "id_str": "14500408",
+          "name": "Ksenia Shatunova",
+          "screen_name": "xushaw",
+          "location": "Here, there",
+          "description": "Artist & co-founder at indie game studio @dash_and_dot . Working on #retrofuturistic #pixelart game. Co-organizer of #GameDevClubLT https://t.co/MUYmkdrq3f",
+          "url": "https://t.co/rbe55m9FA5",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/rbe55m9FA5",
+                  "expanded_url": "http://dash-and-dot.com/",
+                  "display_url": "dash-and-dot.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/MUYmkdrq3f",
+                  "expanded_url": "http://gamedevclub.lt",
+                  "display_url": "gamedevclub.lt",
+                  "indices": [
+                    132,
+                    155
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 495,
+          "friends_count": 494,
+          "listed_count": 51,
+          "created_at": "Wed Apr 23 20:35:13 +0000 2008",
+          "favourites_count": 2396,
+          "utc_offset": 10800,
+          "time_zone": "Vilnius",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 1879,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "131516",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/721090676121841664/RY2hdvIP_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/721090676121841664/RY2hdvIP_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/14500408/1458915383",
+          "profile_link_color": "696969",
+          "profile_sidebar_border_color": "FFDF12",
+          "profile_sidebar_fill_color": "FFDF12",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "01cce83d8638e5f7",
+          "url": "https://api.twitter.com/1.1/geo/id/01cce83d8638e5f7.json",
+          "place_type": "city",
+          "name": "Vilnius",
+          "full_name": "Vilnius, Lithuania",
+          "country_code": "LT",
+          "country": "Lietuva",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  25.0245985,
+                  54.5689032
+                ],
+                [
+                  25.48146,
+                  54.5689032
+                ],
+                [
+                  25.48146,
+                  54.8322118
+                ],
+                [
+                  25.0245985,
+                  54.8322118
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 748987010786918400,
+        "quoted_status_id_str": "748987010786918401",
+        "quoted_status": {
+          "created_at": "Fri Jul 01 21:09:53 +0000 2016",
+          "id": 748987010786918400,
+          "id_str": "748987010786918401",
+          "text": "June was very productive for us, check post about progress in our blog #gamedev #indiedev\nhttps://t.co/N6XvXj6ATq https://t.co/lG4tEPHihC",
+          "truncated": false,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "gamedev",
+                "indices": [
+                  71,
+                  79
+                ]
+              },
+              {
+                "text": "indiedev",
+                "indices": [
+                  80,
+                  89
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/N6XvXj6ATq",
+                "expanded_url": "https://tmblr.co/Z4sAZq28i3MLB",
+                "display_url": "tmblr.co/Z4sAZq28i3MLB",
+                "indices": [
+                  90,
+                  113
+                ]
+              }
+            ],
+            "media": [
+              {
+                "id": 748986803244376000,
+                "id_str": "748986803244376065",
+                "indices": [
+                  114,
+                  137
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmTvh3zWIAEu0jd.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmTvh3zWIAEu0jd.jpg",
+                "url": "https://t.co/lG4tEPHihC",
+                "display_url": "pic.twitter.com/lG4tEPHihC",
+                "expanded_url": "http://twitter.com/dash_and_dot/status/748987010786918401/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "large": {
+                    "w": 564,
+                    "h": 481,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "w": 564,
+                    "h": 481,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "medium": {
+                    "w": 564,
+                    "h": 481,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+          },
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+            "id": 298638751,
+            "id_str": "298638751",
+            "name": "Dash & Dot",
+            "screen_name": "dash_and_dot",
+            "location": "Default City ",
+            "description": "Dash & Dot - indie game studio of enthusiasts, working on unannounced retrofuturistic pixelart roguelite game",
+            "url": "https://t.co/hNFxT7UYaq",
+            "entities": {
+              "url": {
+                "urls": [
+                  {
+                    "url": "https://t.co/hNFxT7UYaq",
+                    "expanded_url": "http://dash-and-dot.com",
+                    "display_url": "dash-and-dot.com",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "protected": false,
+            "followers_count": 383,
+            "friends_count": 208,
+            "listed_count": 22,
+            "created_at": "Sat May 14 17:28:17 +0000 2011",
+            "favourites_count": 41,
+            "utc_offset": 10800,
+            "time_zone": "Moscow",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 515,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/732589924688465921/pdOFP9lv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/732589924688465921/pdOFP9lv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/298638751/1426106266",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 1,
+          "favorite_count": 4,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": true,
+        "retweet_count": 2,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "quoted_status_id": 748987010786918400,
+      "quoted_status_id_str": "748987010786918401",
+      "is_quote_status": true,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 01 23:02:47 +0000 2016",
+      "id": 749015422079529000,
+      "id_str": "749015422079528960",
+      "text": "RT @four5sixpixel: The first wave of backers have received their demos and are now starring in the credits!\n\nWell done to all! https://t.co…",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "shmup",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "four5sixpixel",
+            "name": "Four5Six Pixel",
+            "id": 3044709279,
+            "id_str": "3044709279",
+            "indices": [
+              3,
+              17
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/gWReGyRzbl",
+            "expanded_url": "http://kck.st/29f9qpe",
+            "display_url": "kck.st/29f9qpe",
+            "indices": [
+              139,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://www.bloodirony.com\" rel=\"nofollow\">SHMUPbot</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3024981633,
+        "id_str": "3024981633",
+        "name": "SHMUPbot",
+        "screen_name": "SHMUPbot",
+        "location": "01010110 01001001 01000101 ",
+        "description": "I'm a Robot with a hardcoded love for #IndieGameDev #ShootEmUps. I'll retweet #shmup and #shootemup. My programmer is a real human working at @Bloodirony Games.",
+        "url": "http://t.co/fnCHEdg0Gp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/fnCHEdg0Gp",
+                "expanded_url": "http://www.bloodirony.com",
+                "display_url": "bloodirony.com",
+                "indices": [
+                  0,
+                  22
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 307,
+        "friends_count": 1,
+        "listed_count": 372,
+        "created_at": "Sun Feb 08 14:25:01 +0000 2015",
+        "favourites_count": 0,
+        "utc_offset": 7200,
+        "time_zone": "Belgrade",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 13899,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": true,
+        "profile_background_color": "C0DEED",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/564501751663828992/86L1KN-6_normal.png",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/564501751663828992/86L1KN-6_normal.png",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3024981633/1423422694",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Jul 01 22:28:29 +0000 2016",
+        "id": 749006790264750100,
+        "id_str": "749006790264750080",
+        "text": "The first wave of backers have received their demos and are now starring in the credits!\n\nWell done to all! https://t.co/gWReGyRzbl\n\n#shmup",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "shmup",
+              "indices": [
+                133,
+                139
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/gWReGyRzbl",
+              "expanded_url": "http://kck.st/29f9qpe",
+              "display_url": "kck.st/29f9qpe",
+              "indices": [
+                108,
+                131
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 3044709279,
+          "id_str": "3044709279",
+          "name": "Four5Six Pixel",
+          "screen_name": "four5sixpixel",
+          "location": "Stockport, England",
+          "description": "Makers of retro-inspired video games. Currently making Hyper Sentinel with @HewsonJoystick",
+          "url": null,
+          "entities": {
+            "description": {
+              "urls": []
+            }
+          },
+          "protected": false,
+          "followers_count": 339,
+          "friends_count": 418,
+          "listed_count": 23,
+          "created_at": "Wed Feb 18 22:51:45 +0000 2015",
+          "favourites_count": 56,
+          "utc_offset": null,
+          "time_zone": null,
+          "geo_enabled": false,
+          "verified": false,
+          "statuses_count": 311,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "000000",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+          "profile_background_tile": false,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/733789751115952129/mFoQLE9M_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/733789751115952129/mFoQLE9M_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/3044709279/1463784084",
+          "profile_link_color": "FA743E",
+          "profile_sidebar_border_color": "000000",
+          "profile_sidebar_fill_color": "000000",
+          "profile_text_color": "000000",
+          "profile_use_background_image": false,
+          "has_extended_profile": false,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 01 22:28:29 +0000 2016",
+      "id": 749006790264750100,
+      "id_str": "749006790264750080",
+      "text": "The first wave of backers have received their demos and are now starring in the credits!\n\nWell done to all! https://t.co/gWReGyRzbl\n\n#shmup",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "shmup",
+            "indices": [
+              133,
+              139
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/gWReGyRzbl",
+            "expanded_url": "http://kck.st/29f9qpe",
+            "display_url": "kck.st/29f9qpe",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 3044709279,
+        "id_str": "3044709279",
+        "name": "Four5Six Pixel",
+        "screen_name": "four5sixpixel",
+        "location": "Stockport, England",
+        "description": "Makers of retro-inspired video games. Currently making Hyper Sentinel with @HewsonJoystick",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 339,
+        "friends_count": 418,
+        "listed_count": 23,
+        "created_at": "Wed Feb 18 22:51:45 +0000 2015",
+        "favourites_count": 56,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 311,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/733789751115952129/mFoQLE9M_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/733789751115952129/mFoQLE9M_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3044709279/1463784084",
+        "profile_link_color": "FA743E",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    {
+      "created_at": "Fri Jul 01 22:25:06 +0000 2016",
+      "id": 749005939311718400,
+      "id_str": "749005939311718400",
+      "text": "RT @xushaw: Here's our team progress this month! 😜⚡️ #indiedev #gamedev #videogames #gaming #wip #glitchemup #shmup  https://t.co/VtP4HV3Ydp",
+      "truncated": false,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "indiedev",
+            "indices": [
+              53,
+              62
+            ]
+          },
+          {
+            "text": "gamedev",
+            "indices": [
+              63,
+              71
+            ]
+          },
+          {
+            "text": "videogames",
+            "indices": [
+              72,
+              83
+            ]
+          },
+          {
+            "text": "gaming",
+            "indices": [
+              84,
+              91
+            ]
+          },
+          {
+            "text": "wip",
+            "indices": [
+              92,
+              96
+            ]
+          },
+          {
+            "text": "glitchemup",
+            "indices": [
+              97,
+              108
+            ]
+          },
+          {
+            "text": "shmup",
+            "indices": [
+              109,
+              115
+            ]
+          }
+        ],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "xushaw",
+            "name": "Ksenia Shatunova",
+            "id": 14500408,
+            "id_str": "14500408",
+            "indices": [
+              3,
+              10
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/VtP4HV3Ydp",
+            "expanded_url": "https://twitter.com/dash_and_dot/status/748987010786918401",
+            "display_url": "twitter.com/dash_and_dot/s…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "metadata": {
+        "iso_language_code": "en",
+        "result_type": "recent"
+      },
+      "source": "<a href=\"http://games6.xyz\" rel=\"nofollow\">Indie Dev Bot</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4307950162,
+        "id_str": "4307950162",
+        "name": "Indie Dev Bot",
+        "screen_name": "Indie_Dev_Bot",
+        "location": "",
+        "description": "A bot created by @Gen6Games to retweet anything related to #indiedev #Unity3D",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1840,
+        "friends_count": 8,
+        "listed_count": 1218,
+        "created_at": "Sat Nov 28 14:21:12 +0000 2015",
+        "favourites_count": 28720,
+        "utc_offset": -14400,
+        "time_zone": "Eastern Time (US & Canada)",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 28733,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/670615954074771456/yeyeF7RI_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/670615954074771456/yeyeF7RI_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4307950162/1466522730",
+        "profile_link_color": "981CEB",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweeted_status": {
+        "created_at": "Fri Jul 01 22:22:01 +0000 2016",
+        "id": 749005163835297800,
+        "id_str": "749005163835297792",
+        "text": "Here's our team progress this month! 😜⚡️ #indiedev #gamedev #videogames #gaming #wip #glitchemup #shmup  https://t.co/VtP4HV3Ydp",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "indiedev",
+              "indices": [
+                41,
+                50
+              ]
+            },
+            {
+              "text": "gamedev",
+              "indices": [
+                51,
+                59
+              ]
+            },
+            {
+              "text": "videogames",
+              "indices": [
+                60,
+                71
+              ]
+            },
+            {
+              "text": "gaming",
+              "indices": [
+                72,
+                79
+              ]
+            },
+            {
+              "text": "wip",
+              "indices": [
+                80,
+                84
+              ]
+            },
+            {
+              "text": "glitchemup",
+              "indices": [
+                85,
+                96
+              ]
+            },
+            {
+              "text": "shmup",
+              "indices": [
+                97,
+                103
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/VtP4HV3Ydp",
+              "expanded_url": "https://twitter.com/dash_and_dot/status/748987010786918401",
+              "display_url": "twitter.com/dash_and_dot/s…",
+              "indices": [
+                105,
+                128
+              ]
+            }
+          ]
+        },
+        "metadata": {
+          "iso_language_code": "en",
+          "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 14500408,
+          "id_str": "14500408",
+          "name": "Ksenia Shatunova",
+          "screen_name": "xushaw",
+          "location": "Here, there",
+          "description": "Artist & co-founder at indie game studio @dash_and_dot . Working on #retrofuturistic #pixelart game. Co-organizer of #GameDevClubLT https://t.co/MUYmkdrq3f",
+          "url": "https://t.co/rbe55m9FA5",
+          "entities": {
+            "url": {
+              "urls": [
+                {
+                  "url": "https://t.co/rbe55m9FA5",
+                  "expanded_url": "http://dash-and-dot.com/",
+                  "display_url": "dash-and-dot.com",
+                  "indices": [
+                    0,
+                    23
+                  ]
+                }
+              ]
+            },
+            "description": {
+              "urls": [
+                {
+                  "url": "https://t.co/MUYmkdrq3f",
+                  "expanded_url": "http://gamedevclub.lt",
+                  "display_url": "gamedevclub.lt",
+                  "indices": [
+                    132,
+                    155
+                  ]
+                }
+              ]
+            }
+          },
+          "protected": false,
+          "followers_count": 495,
+          "friends_count": 494,
+          "listed_count": 51,
+          "created_at": "Wed Apr 23 20:35:13 +0000 2008",
+          "favourites_count": 2396,
+          "utc_offset": 10800,
+          "time_zone": "Vilnius",
+          "geo_enabled": true,
+          "verified": false,
+          "statuses_count": 1879,
+          "lang": "en",
+          "contributors_enabled": false,
+          "is_translator": false,
+          "is_translation_enabled": false,
+          "profile_background_color": "131516",
+          "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+          "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+          "profile_background_tile": true,
+          "profile_image_url": "http://pbs.twimg.com/profile_images/721090676121841664/RY2hdvIP_normal.jpg",
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/721090676121841664/RY2hdvIP_normal.jpg",
+          "profile_banner_url": "https://pbs.twimg.com/profile_banners/14500408/1458915383",
+          "profile_link_color": "696969",
+          "profile_sidebar_border_color": "FFDF12",
+          "profile_sidebar_fill_color": "FFDF12",
+          "profile_text_color": "333333",
+          "profile_use_background_image": true,
+          "has_extended_profile": true,
+          "default_profile": false,
+          "default_profile_image": false,
+          "following": false,
+          "follow_request_sent": false,
+          "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": {
+          "id": "01cce83d8638e5f7",
+          "url": "https://api.twitter.com/1.1/geo/id/01cce83d8638e5f7.json",
+          "place_type": "city",
+          "name": "Vilnius",
+          "full_name": "Vilnius, Lithuania",
+          "country_code": "LT",
+          "country": "Lietuva",
+          "contained_within": [],
+          "bounding_box": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [
+                  25.0245985,
+                  54.5689032
+                ],
+                [
+                  25.48146,
+                  54.5689032
+                ],
+                [
+                  25.48146,
+                  54.8322118
+                ],
+                [
+                  25.0245985,
+                  54.8322118
+                ]
+              ]
+            ]
+          },
+          "attributes": {}
+        },
+        "contributors": null,
+        "quoted_status_id": 748987010786918400,
+        "quoted_status_id_str": "748987010786918401",
+        "quoted_status": {
+          "created_at": "Fri Jul 01 21:09:53 +0000 2016",
+          "id": 748987010786918400,
+          "id_str": "748987010786918401",
+          "text": "June was very productive for us, check post about progress in our blog #gamedev #indiedev\nhttps://t.co/N6XvXj6ATq https://t.co/lG4tEPHihC",
+          "truncated": false,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "gamedev",
+                "indices": [
+                  71,
+                  79
+                ]
+              },
+              {
+                "text": "indiedev",
+                "indices": [
+                  80,
+                  89
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/N6XvXj6ATq",
+                "expanded_url": "https://tmblr.co/Z4sAZq28i3MLB",
+                "display_url": "tmblr.co/Z4sAZq28i3MLB",
+                "indices": [
+                  90,
+                  113
+                ]
+              }
+            ],
+            "media": [
+              {
+                "id": 748986803244376000,
+                "id_str": "748986803244376065",
+                "indices": [
+                  114,
+                  137
+                ],
+                "media_url": "http://pbs.twimg.com/media/CmTvh3zWIAEu0jd.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CmTvh3zWIAEu0jd.jpg",
+                "url": "https://t.co/lG4tEPHihC",
+                "display_url": "pic.twitter.com/lG4tEPHihC",
+                "expanded_url": "http://twitter.com/dash_and_dot/status/748987010786918401/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "large": {
+                    "w": 564,
+                    "h": 481,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "w": 564,
+                    "h": 481,
+                    "resize": "fit"
+                  },
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "medium": {
+                    "w": 564,
+                    "h": 481,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+          },
+          "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "user": {
+            "id": 298638751,
+            "id_str": "298638751",
+            "name": "Dash & Dot",
+            "screen_name": "dash_and_dot",
+            "location": "Default City ",
+            "description": "Dash & Dot - indie game studio of enthusiasts, working on unannounced retrofuturistic pixelart roguelite game",
+            "url": "https://t.co/hNFxT7UYaq",
+            "entities": {
+              "url": {
+                "urls": [
+                  {
+                    "url": "https://t.co/hNFxT7UYaq",
+                    "expanded_url": "http://dash-and-dot.com",
+                    "display_url": "dash-and-dot.com",
+                    "indices": [
+                      0,
+                      23
+                    ]
+                  }
+                ]
+              },
+              "description": {
+                "urls": []
+              }
+            },
+            "protected": false,
+            "followers_count": 383,
+            "friends_count": 208,
+            "listed_count": 22,
+            "created_at": "Sat May 14 17:28:17 +0000 2011",
+            "favourites_count": 41,
+            "utc_offset": 10800,
+            "time_zone": "Moscow",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 515,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/732589924688465921/pdOFP9lv_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/732589924688465921/pdOFP9lv_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/298638751/1426106266",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+          },
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 1,
+          "favorite_count": 4,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": true,
+        "retweet_count": 2,
+        "favorite_count": 8,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "quoted_status_id": 748987010786918400,
+      "quoted_status_id_str": "748987010786918401",
+      "is_quote_status": true,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    }
+  ],
+  "search_metadata": {
+    "completed_in": 0.032,
+    "max_id": 749025670144008200,
+    "max_id_str": "749025670144008192",
+    "next_results": "?max_id=749005939311718399&q=%23shmup%20until%3A2016-07-02&count=10&include_entities=1",
+    "query": "%23shmup+until%3A2016-07-02",
+    "refresh_url": "?since_id=749025670144008192&q=%23shmup%20until%3A2016-07-02&include_entities=1",
+    "count": 10,
+    "since_id": 0,
+    "since_id_str": "0"
+  }
+}

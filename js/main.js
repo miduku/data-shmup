@@ -3,6 +3,7 @@
  */
 app.game.state.add('load', app.load);
 app.game.state.add('boot', app.boot);
+app.game.state.add('menu', app.menu);
 
 // Main game state
 app.game.state.add('level01', app.level01);
