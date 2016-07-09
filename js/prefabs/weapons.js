@@ -7,9 +7,9 @@ var Weapon = {};
 Weapon.SingleBullet = function (game) {
   Phaser.Group.call(this, game, game.world, 'Single Bullet', false, true, Phaser.Physics.ARCADE);
 
-  this.nextFire = 0; // nextFire is the time the player is allowed to shoot again
+  this.nextFire    = 0; // nextFire is the time the player is allowed to shoot again
   this.bulletSpeed = 1000; // bulletSpeed is the speed the bullets this particular weapon fires travel at
-  this.fireRate = 100; // fireRate is the rate at which this weapon fires. The lower the number, the higher the firing rate.
+  this.fireRate    = 100; // fireRate is the rate at which this weapon fires. The lower the number, the higher the firing rate.
 
   // create 64 bullets to add to the pool
   for (var i = 0; i < 64; i++) {
@@ -19,7 +19,7 @@ Weapon.SingleBullet = function (game) {
   return this;
 };
 
-Weapon.SingleBullet.prototype = Object.create(Phaser.Group.prototype);
+Weapon.SingleBullet.prototype             = Object.create(Phaser.Group.prototype);
 Weapon.SingleBullet.prototype.constructor = Weapon.SingleBullet;
 
 Weapon.SingleBullet.prototype.fireFrom = function (source) {
@@ -40,37 +40,55 @@ Weapon.SingleBullet.prototype.fireFrom = function (source) {
 /**
  * Array Bullet
  */
-Weapon.ArrayBullet = function (game) {
+Weapon.ArrayBullet = function (game, pattern, weaponSettins) {
   Phaser.Group.call(this, game, game.world, 'Array Bullet', false, true, Phaser.Physics.ARCADE);
 
-  this.nextFire = 0; // nextFire is the time the player is allowed to shoot again
-  this.bulletSpeed = 200; // bulletSpeed is the speed the bullets this particular weapon fires travel at
-  this.fireRate = 500; // fireRate is the rate at which this weapon fires. The lower the number, the higher the firing rate.
+  this.mtx         = pattern;
+  this.settings    = weaponSettins;
+  this.arcSetter   = this.settings.fireArc / this.mtx.matrix.length;
+  this.cycles      = 0;
+  this.nextFire    = this.settings.nextFire; // nextFire is the time the player is allowed to shoot again
+  this.bulletSpeed = this.settings.bulletSpeed; // bulletSpeed is the speed the bullets this particular weapon fires travel at
+  this.fireRate    = this.settings.fireRate; // fireRate is the rate at which this weapon fires. The lower the number, the higher the firing rate.
+  // console.log('pattern', pattern);
 
-  
 
   // create bullets to add to the pool
-  for (var i = 0; i < 300; i++) {
-    this.add( new Bullet(this.game, 'bullet-01'), true );
+  for (var i = 0; i < this.settings.bullets; i++) {
+    this.add( new Bullet(this.game, this.settings.bulletSprite), true );
   }
 
   return this;
 };
 
-Weapon.ArrayBullet.prototype = Object.create(Phaser.Group.prototype);
+Weapon.ArrayBullet.prototype             = Object.create(Phaser.Group.prototype);
 Weapon.ArrayBullet.prototype.constructor = Weapon.ArrayBullet;
 
-Weapon.ArrayBullet.prototype.fireFrom = function (source, angle2) {
+Weapon.ArrayBullet.prototype.fireFrom = function (source) {
+  if (this.game.time.now < this.nextFire) { return; }
 
-    // if (this.game.time.now < this.nextFire) { return; }
+  var x        = source.x;
+  var y        = source.y;
 
-    var x = source.x;
-    var y = source.y;
-    var angle2 = angle2 || 0;
+  if (this.settings.rotationDir === 'cw') {
+    this.settings.fireArc += (this.mtx.matrix.length/2);
+  } else {
+    this.settings.fireArc -= (this.mtx.matrix.length/2);
+  }
 
-    this.getFirstExists(false).fireFrom(x, y, 0 + angle2, this.bulletSpeed, 0, 0);
-    this.getFirstExists(false).fireFrom(x, y, 180 + angle2, this.bulletSpeed, 0, 0);
+  for (let i = 0; i < this.mtx.matrix.length; i++) {
+    if (this.mtx.matrix[i][this.cycles] === 1) {
+      this.getFirstExists(false).fireFrom(x, y, ((i*this.arcSetter) + 0   + this.settings.fireArc), (this.bulletSpeed), 0 + this.settings.gravity[0], 0 + this.settings.gravity[1]);
+      this.getFirstExists(false).fireFrom(x, y, ((i*this.arcSetter) + 180 + this.settings.fireArc), (this.bulletSpeed), 0 + this.settings.gravity[0], 0 + this.settings.gravity[1]);
+    }
+  }
 
-    // this.nextFire = this.game.time.now + this.fireRate;
 
+  if (this.cycles < this.mtx.largestNumber) {
+    this.cycles = this.cycles + this.mtx.steps;
+  } else {
+    this.cycles = 0;
+  }
+
+  this.nextFire = this.game.time.now + this.fireRate;
 };

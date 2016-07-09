@@ -2,8 +2,8 @@ var Player = function (x, y) {
   this.x = x;
   this.y = y;
 
-  this.length = 10;
-  this.height = 10;
+  this.length = 12;
+  this.height = 12;
 
   this.diagonal = (this.length * this.length) + (this.height * this.height);
 
@@ -17,7 +17,7 @@ Player.prototype.sub_create = function () {
 
   // app.game.physics.enable(this.hull, Phaser.Physics.ARCADE);
   this.hull.anchor.setTo(0.5, 0.5);
-  this.hull.body.setSize(this.length, this.height, 5, 5);
+  this.hull.body.setSize(this.length, this.height, this.hull.width/2 - this.length/2, this.hull.height/2 - this.height/2);
 
   //  Tell it we don't want physics to manage the rotation
   this.hull.allowRotation = false;

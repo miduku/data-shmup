@@ -49,7 +49,7 @@ app.menu.create = function () {
     function (data, textStatus, jqXHR) {
       // console.log(data);
       localStorage.setItem('hashtagJSON', JSON.stringify(data));
-      console.log(localStorage.getItem('hashtagJSON'));
+      // console.log(localStorage.getItem('hashtagJSON'));
 
       // continue to level
       app.game.state.start('level01');

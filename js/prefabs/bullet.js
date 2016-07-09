@@ -22,7 +22,7 @@ var Bullet = function (game, key) {
 };
 
 //!
-Bullet.prototype = Object.create(Phaser.Sprite.prototype);
+Bullet.prototype             = Object.create(Phaser.Sprite.prototype);
 Bullet.prototype.constructor = Bullet;
 
 Bullet.prototype.fireFrom = function (x, y, angle, speed, gx, gy) {

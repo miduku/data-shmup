@@ -1,0 +1,22 @@
+{
+  "arr01": {
+    "fireArc":      45,
+    "nextFire":     0,
+    "bulletSpeed":  200,
+    "fireRate":     250,
+    "bullets":      300,
+    "rotationDir":  "cw",
+    "bulletSprite": "bullet-01",
+    "gravity":      [0, 0]
+  },
+  "arr02": {
+    "fireArc":      180,
+    "nextFire":     3000,
+    "bulletSpeed":  100,
+    "fireRate":     500,
+    "bullets":      400,
+    "rotationDir":  "ccw",
+    "bulletSprite": "bullet-02",
+    "gravity":      [0, 0]
+  }
+}
