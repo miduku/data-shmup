@@ -3,6 +3,9 @@ app.level01 = {};
 // create()
 app.level01.create = function () {
   this.stage.backgroundColor = '#ddd';
+  this.fireArc = 45;
+  this.rotate = 0;
+  this.nextFire = 0;
 
   // Mouse input
   this.cursor = this.input.activePointer;
@@ -22,41 +25,51 @@ app.level01.create = function () {
 
   this.parsedJSON = JSON.parse(localStorage.getItem('hashtagJSON'));
   this.bulletArray = [];
-  for (var item of this.parsedJSON.statuses) {
+  for (let item of this.parsedJSON.statuses) {
     this.bulletArray.push(item.entities.hashtags.length);
   }
-  this.rotate = 180;
-  this.nextFire = 0;
+  this.largestNumber = Math.max.apply(Math, this.bulletArray); 
 
   console.log(this.bulletArray);
-  
-
+  console.log(this.largestNumber);
 };
 
 // update()
 app.level01.update = function () {
 
-  // Weapons
+  // Weapons (player)
   // if mouse is klicked, shoot weapon
   if (this.cursor.isDown) {
     this.weaponSB.visible = true;
     this.weaponSB.fireFrom(this.player.hull);
   }
 
+  // Weapons (boss)
+  this.weaponAB.visible = true;
+
   if (this.game.time.now > this.nextFire) {
     this.rotate += this.bulletArray.length;
     this.nextFire = this.game.time.now + this.weaponAB.fireRate;
+
+    let arcSetter = this.fireArc / this.bulletArray.length;
+
+    for (let i = 0; i < this.bulletArray.length; i++) {
+      if (this.bulletArray[i] <= this.largestNumber) {
+        this.weaponAB.fireFrom(this.boss.hull, (i*arcSetter) /*+ this.rotate*/);
+      }
+    }
   }
-  this.weaponAB.visible = true;
-  this.weaponAB.fireFrom(this.boss.hull, this.rotate);
 
   // Actors
   this.player.sub_update();
   this.boss.sub_update();
-  console.log(this.nextFire);
+  // console.log(this.nextFire);
   
 };
 
+
+app.level01.shoot = function (rotate) {
+}
 
 
 // render()

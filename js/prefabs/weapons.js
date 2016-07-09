@@ -49,8 +49,8 @@ Weapon.ArrayBullet = function (game) {
 
   
 
-  // create 100 bullets to add to the pool
-  for (var i = 0; i < 100; i++) {
+  // create bullets to add to the pool
+  for (var i = 0; i < 300; i++) {
     this.add( new Bullet(this.game, 'bullet-01'), true );
   }
 
@@ -62,7 +62,7 @@ Weapon.ArrayBullet.prototype.constructor = Weapon.ArrayBullet;
 
 Weapon.ArrayBullet.prototype.fireFrom = function (source, angle2) {
 
-    if (this.game.time.now < this.nextFire) { return; }
+    // if (this.game.time.now < this.nextFire) { return; }
 
     var x = source.x;
     var y = source.y;
@@ -71,6 +71,6 @@ Weapon.ArrayBullet.prototype.fireFrom = function (source, angle2) {
     this.getFirstExists(false).fireFrom(x, y, 0 + angle2, this.bulletSpeed, 0, 0);
     this.getFirstExists(false).fireFrom(x, y, 180 + angle2, this.bulletSpeed, 0, 0);
 
-    this.nextFire = this.game.time.now + this.fireRate;
+    // this.nextFire = this.game.time.now + this.fireRate;
 
 };
