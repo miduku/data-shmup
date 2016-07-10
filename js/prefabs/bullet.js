@@ -15,7 +15,6 @@ var Bullet = function (game, key) {
 
   this.checkWorldBounds = true;
   this.outOfBoundsKill = true;
-  this.enableBody = true;
   this.exists = false;
 
   this.tracking = false; // The tracking property tells the Bullet to rotate to face the direction it is moving in, as it moves

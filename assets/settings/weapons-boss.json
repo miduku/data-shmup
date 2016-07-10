@@ -7,16 +7,35 @@
     "bullets":      300,
     "rotationDir":  "cw",
     "bulletSprite": "bullet-01",
-    "gravity":      [0, 0]
+    "gravity":      [0, 0],
+    "tracking":     true,
+    "tint":         "0xffff00",
+    "data":         "item.entities.hashtags.length"
   },
   "arr02": {
-    "fireArc":      180,
-    "nextFire":     3000,
+    "fireArc":      90,
+    "nextFire":     0,
     "bulletSpeed":  100,
     "fireRate":     500,
     "bullets":      400,
     "rotationDir":  "ccw",
     "bulletSprite": "bullet-02",
-    "gravity":      [0, 0]
+    "gravity":      [0, 0],
+    "tracking":     false,
+    "tint":         "0xffffff",
+    "data":         "item.user.followers_count"
+  },
+  "arr03": {
+    "fireArc":      90,
+    "nextFire":     0,
+    "bulletSpeed":  200,
+    "fireRate":     500,
+    "bullets":      400,
+    "rotationDir":  "cw",
+    "bulletSprite": "bullet-02",
+    "gravity":      [20, 0],
+    "tracking":     false,
+    "tint":         "0x00ffff",
+    "data":         "item.user.friends_count"
   }
 }

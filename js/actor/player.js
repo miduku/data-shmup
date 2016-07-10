@@ -11,7 +11,10 @@ var Player = function (x, y) {
   this.diagonal = Math.round( Math.sqrt( this.diagonal ) );
 };
 
-// functions to be used in app.level01.create ...
+
+/**
+ * sub_create ()
+ */
 Player.prototype.sub_create = function () {
   this.hull = app.game.add.sprite(this.x, this.y, 'ship-player');
 
@@ -21,10 +24,13 @@ Player.prototype.sub_create = function () {
 
   //  Tell it we don't want physics to manage the rotation
   this.hull.allowRotation = false;
-}
+};
 
-// ... or app.level01.update
+
+/**
+ * sub_update ()
+ */
 Player.prototype.sub_update = function () {
   // Follow mouse position
-  this.hull.velocity = app.game.physics.arcade.moveToPointer(this.hull, 100, app.game.input.activePointer, 60);
-}
+  this.hull.velocity = app.game.physics.arcade.moveToPointer(this.hull, 100, app.game.input.activePointer, 50);
+};

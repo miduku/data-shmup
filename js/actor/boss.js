@@ -9,9 +9,17 @@ var Boss = function (x, y) {
 
   //Calculating nearest integer value of diagonal
   this.diagonal = Math.round( Math.sqrt( this.diagonal ) );
+
+  this.health = 500;
+  this.alive = true;
+  this.speed = 50;
+  this.direction = 'up';
 };
 
-// functions to be used in app.level01.create ...
+
+/**
+ * sub_create ()
+ */
 Boss.prototype.sub_create = function () {
   this.hull = app.game.add.sprite(this.x, this.y, 'ship-boss');
 
@@ -31,7 +39,22 @@ Boss.prototype.sub_create = function () {
   this.hull.allowRotation = false;
 }
 
-// ... or app.level01.update
-Boss.prototype.sub_update = function () {
 
+/**
+ * sub_update ()
+ */
+Boss.prototype.sub_update = function () {
+  if (this.hull.body.y < app.game.stage.height*.15) {
+    this.direction = 'down';
+  }
+  else if (this.hull.body.y > app.game.stage.height*.75) {
+    this.direction = 'up';
+  }
+
+  if (this.direction === 'up') {
+    this.hull.body.velocity.y = -this.speed;
+  }
+  else if (this.direction === 'down') {
+    this.hull.body.velocity.y = this.speed;
+  }
 }
