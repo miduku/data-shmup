@@ -6,8 +6,12 @@ app.load = {};
 app.load.preload = function () {
   this.game.load.image('ship-player', 'assets/img/player.png');
   this.game.load.image('ship-boss', 'assets/img/boss.png');
+
   this.game.load.image('bullet-01', 'assets/img/player_shots.png');
   this.game.load.image('bullet-02', 'assets/img/bombs.png');
+
+  this.game.load.image('bgr-space', 'assets/img/space.png');
+  this.game.load.image('bgr-pentagon01', 'assets/img/pentagon_01.png');
 
   this.game.load.json('weapons', 'assets/settings/weapons-boss.json');
 };

@@ -2,8 +2,8 @@ var Player = function (x, y) {
   this.x = x;
   this.y = y;
 
-  this.length = 12;
-  this.height = 12;
+  this.length = 8;
+  this.height = 8;
 
   this.diagonal = (this.length * this.length) + (this.height * this.height);
 
@@ -17,7 +17,7 @@ Player.prototype.sub_create = function () {
 
   // app.game.physics.enable(this.hull, Phaser.Physics.ARCADE);
   this.hull.anchor.setTo(0.5, 0.5);
-  this.hull.body.setSize(this.length, this.height, this.hull.width/2 - this.length/2, this.hull.height/2 - this.height/2);
+  this.hull.body.setSize(this.length, this.height, this.hull.width-this.length, this.hull.height/2 - this.height/2);
 
   //  Tell it we don't want physics to manage the rotation
   this.hull.allowRotation = false;
@@ -26,5 +26,5 @@ Player.prototype.sub_create = function () {
 // ... or app.level01.update
 Player.prototype.sub_update = function () {
   // Follow mouse position
-  this.velocity = app.game.physics.arcade.moveToPointer(this.hull, 500, app.game.input.activePointer, 70);
+  this.hull.velocity = app.game.physics.arcade.moveToPointer(this.hull, 100, app.game.input.activePointer, 60);
 }
