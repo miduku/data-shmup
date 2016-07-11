@@ -51,12 +51,12 @@ app.level01.update = function () {
   this.weaponAB3.visible = true;
 
   if (this.boss.alive === true) {
-    if (this.boss.health < this.initBossHealth*0.25) {
+    if (this.boss.health < this.initBossHealth*0.45) {
       this.weaponAB3.fireFrom(this.boss.hull);
       this.weaponAB2.fireFrom(this.boss.hull);
       this.weaponAB.fireFrom(this.boss.hull);
     }
-    else if (this.boss.health < this.initBossHealth*0.5) {
+    else if (this.boss.health < this.initBossHealth*0.6) {
       this.weaponAB3.fireFrom(this.boss.hull);
     }
     else if (this.boss.health < this.initBossHealth*0.75) {
@@ -210,7 +210,7 @@ app.level01.setupWeapons = function () {
   this.weaponAB.visible = false;
   this.weaponAB2 = new Weapon.ArrayBullet(this.game, this.matrixFollowers, this.weapons.arr02);
   this.weaponAB2.visible = false;
-  this.weaponAB3 = new Weapon.ArrayBullet(this.game, this.matrixFollowers, this.weapons.arr03);
+  this.weaponAB3 = new Weapon.ArrayBullet(this.game, this.matrixFriends, this.weapons.arr03);
   this.weaponAB3.visible = false;
 };
 
